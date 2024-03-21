@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:project/pages/Signup.dart';
 
 class Welcome extends StatelessWidget {
   const Welcome({super.key});
+  static String id = 'Welcome Page';
 
   @override
   Widget build(BuildContext context) {
@@ -56,7 +58,7 @@ class Welcome extends StatelessWidget {
                   
                     ElevatedButton(
                       onPressed: () {
-                        Navigator.pushNamed(context, "/signup");
+                        Navigator.pushNamed(context, Signup.id);
                       },
                       
                       style: ButtonStyle(

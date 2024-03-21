@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773473165812",
+    "project_id": "myproject-f56ca",
+    "storage_bucket": "myproject-f56ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773473165812:android:1685946d84109bb33e59a1",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ5Sdf_kvnyGAfMeIq5YlQgh_PM0XESH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
